@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "727de66fb47b8693",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07f9cf33d478c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889d4165adffa3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb30cc760592c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f63ad0f84f84f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf240010d3e712be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce5220153b6ea9cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ab1b702449c9510",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92f3bb6b18178a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c85042bc1c347c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85281efa470f163a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Word Definitions & Examples.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Word Definitions & Examples"
+            }
+          },
+          {
+            "id": "194b644a6e2de724",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Word Definitions & Examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Word Definitions & Examples"
+            }
+          },
+          {
+            "id": "89bf48b8d97cc4f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5142b29d879ee64e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Word Definitions & Examples.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Word Definitions & Examples"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "889d4165adffa3a0",
+  "lastOpenFiles": [
+    "Glossary/General/Immutable.md",
+    "Glossary/General/Dogma.md",
+    "Religion.md",
+    "Glossary/Science/Scientific Theory.md",
+    "Word Definitions & Examples.md",
+    "2024-11-24.md",
+    "Vyvanse.md",
+    "US Politics Brief.md",
+    "Glossary/Science/Scientific Fact.md",
+    "Glossary/Science/Scientific Law.md",
+    "Glossary/Science/Hypothesis.md",
+    "Glossary/Philosophy/Non-cognitivism.md",
+    "Glossary/Philosophy",
+    "Quran Read Through.md",
+    "Glossary/Ghost.md",
+    "Glossary/Religon/Qiraat.md",
+    "The forest was shrinking, but the trees kept voting for the axe; for the axe was clever and convinced the trees that because his handle was made of wood, he was one of them..md",
+    "Glossary/General/Etymology.md",
+    "Glossary/Science/Carbon Dating.md",
+    "Glossary/Science",
+    "This.md",
+    "Glossary/General/Denotation.md",
+    "create a link.md",
+    "Glossary/General",
+    "Glossary/Religon",
+    "Glossary",
+    "OB_Template-main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md",
+    "OB_Template-main/README.md",
+    "2024-10-26.md",
+    "OB_Template-main/LICENSE",
+    "OB_Template-main/0A_Templates/0A_Index.md",
+    "OB_Template-main/0A_Templates/0A_9_Recipes/0A_9_1_Recipes.md",
+    "OB_Template-main/0A_Templates/0A_9_Recipes",
+    "OB_Template-main/0A_Templates/0A_99_Index",
+    "OB_Template-main/0A_Templates/0A_8_Reviews",
+    "OB_Template-main/0A_Templates/0A_7_Blog"
+  ]
+}
